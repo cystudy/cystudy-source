@@ -1,12 +1,17 @@
 ---
 title: Hello, 学粉们
 author: 陈铮
-tag: Introduction
+categories:
+- 新人向导
+tags: 
+- Introduction
 ---
 
 欢迎来到 CyStudy **仲英学业辅导中心**！
 
 这里有来自各个专业的数十名志愿者与工作人员热心为您服务！
+
+<!--more-->
 
 # 答疑科目
 
