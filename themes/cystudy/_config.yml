@@ -30,7 +30,7 @@ canonical: true
 menu:
   home: /
   categories: /categories
-  #about: /about
+  about: /about
   archives: /archives
   tags: /tags
   #commonweal: /404.html
@@ -238,7 +238,8 @@ auto_excerpt:
 # MathJax Support
 mathjax:
   enable: true
-  cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  cdn: //cdn.bootcss.com/mathjax/2.7.0-beta.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#  cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 
 # Swiftype Search API Key
