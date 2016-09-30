@@ -1,3 +1,4 @@
 [submodule "posts"]
-  path = source/_posts
-  url = git@github.com:cystudy/cystudy-posts.git
+    path = source/_posts
+    url = git@github.com:cystudy/cystudy-posts.git
+
